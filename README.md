@@ -35,13 +35,9 @@ PlayLife/
 ├── tailwind/
 │   ├── index.html
 │   └── imagens/
-├── README.md
-└── analise-critica.docx
+└── README.md
 ```
 
-A pasta `bootstrap/` contém a versão desenvolvida com Bootstrap, enquanto a pasta `tailwind/` contém a versão desenvolvida com Tailwind CSS.
-
-As pastas `imagens/` armazenam os arquivos visuais utilizados nas páginas, quando aplicável. O arquivo `README.md` apresenta a documentação do projeto, e o documento de análise crítica registra a comparação entre as tecnologias.
 
 ## 5. Organização das branches
 
@@ -79,7 +75,7 @@ O layout foi planejado para se adaptar a diferentes tamanhos de tela, mantendo a
 1. Clone o repositório:
 
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone https://github.com/vitoriakr/PlayLife---Bootstrap-e-Tailwind-CSS
    ```
 
 2. Acesse a pasta do projeto:
@@ -94,7 +90,7 @@ O layout foi planejado para se adaptar a diferentes tamanhos de tela, mantendo a
 
 Também é possível abrir a pasta do projeto no Visual Studio Code e utilizar a extensão Live Server para visualizar as páginas durante o desenvolvimento.
 
-**Observação:** substitua `URL_DO_REPOSITORIO` pelo endereço real do repositório no GitHub.
+**Observação:** substitua `https://github.com/vitoriakr/PlayLife---Bootstrap-e-Tailwind-CSS` pelo endereço real do repositório no GitHub.
 
 ### Dependências
 
